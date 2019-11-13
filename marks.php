@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="marks.css">
+	<title></title>
+</head>
+<body>
+<b>Writing</b><br>
+<href><i>Game of Thrones</i> used seven writers in six seasons. Series creators <a href="https://en.wikipedia.org/wiki/D._B._Weiss">David Benioff </a>and D. B. Weiss, the showrunners, write most of the episodes each season.<sup>[62]</sup></href><br>
+<P>A Song of Ice and Fire author George R. R. Martin wrote one episode in each of the first four seasons. Martin did not write an episode for the later seasons, since he wanted to focus on completing the sixth novel (The Winds of Winter).<sup>[63]</sup> Jane Espenson co-wrote one first-season episode as a freelance writer.<sup>[64]</sup></P>
+
+<p><href>Bryan Cogman, initially a script coordinator for the series,<sup>[64]</sup> was promoted to producer for the fifth season. Cogman, who wrote at least one episode for the first five seasons, is the only other writer in the writers' room with Benioff and Weiss. Before his promotion, Vanessa Taylor (a writer during the second and third seasons) worked closely with Benioff and Weiss. Dave Hill joined the writing staff for the fifth season after working as an assistant to Benioff and Weiss.[65] Although Martin is not in the writers' room, he reads the script outlines and makes comments.<sup>[62]</sup></href></p>
+
+<p>Benioff and Weiss sometimes assign characters to particular writers; for example, Cogman was assigned to Arya Stark for the fourth season. The writers spend several weeks writing a character outline, including what material from the novels to use and the overarching themes. After these individual outlines are complete, they spend another two to three weeks discussing each main character's individual arc and arranging them episode by episode.<sup>[62]</sup> A detailed outline is created, with each of the writers working on a portion to create a script for each episode. Cogman, who wrote two episodes for the fifth season, took a month and a half to complete both scripts. They are then read by Benioff and Weiss, who make notes, and parts of the script are rewritten. All ten episodes are written before filming begins, since they are filmed out of order with two units in different countries.<sup>[62]</sup></p>
+
+<p>Benioff and Weiss write each of their episodes together, with one of them writing the first half of the script and the other the second half. After that they begin with passing the drafts back and forth to make notes and rewrite parts of it.<sup>[38]</sup></p><br>
+<b>Adaptation schedule</b><br><p>Benioff and Weiss originally intended to adapt the entire, still-incomplete A Song of Ice and Fire series of novels for television.[citation needed] After Game of Thrones began outpacing the published novels in the sixth season, the series was based on a plot outline of the future novels provided by Martin<sup>[66]</sup> and original content. In April 2016, the showrunners' plan was to shoot 13 more episodes after the sixth season: seven episodes in the seventh season and six episodes in the eighth.<sup>[67]</sup> Later that month, the series was renewed for a seventh season with a seven-episode order.<sup>[68][69]</sup> Eight seasons were ordered and filmed, adapting the novels at a rate of about 48 seconds per page for the first three seasons.<sup>[70]</sup></p>
+<table class="table">
+	<tr>
+	<th><b>season</b></th>
+	<th>ordered</th>
+	<th>filiming</th>
+	<th>first aired</th>
+	<th>last aired</th>
+	<th>novel(s) adapted</th>
+	<th>refs</th>
+</tr>
+<tr>
+	<th>season 1</th>
+		<td>march 2,2010</td>
+		<td>Second half of 2010</td>
+		<td>April 17, 2011</td>
+		<td>June 19, 2011</td>
+		<td>A Game of Thrones</td>
+		<td>[71]</td>
+</tr>
+<tr>
+	<th>season 2</th>
+	<td>April 19, 2011</td>
+	<td>Second half of 2011</td>
+	<td>April 1, 2012</td>
+	<td>June 3, 2012</td>
+	<td>A Clash of Kings and some early chapters from A Storm of Swords</td>
+	<td>[72][73]</td>
+</tr>
+<tr>
+	<th>season 3</th>
+	<td>April 10, 2012</td>
+	<td>July – November 2012</td>
+	<td>March 31, 2013</td>
+	<td>June 9, 2013</td>
+	<td>About the first two-thirds of A Storm of Swords</td>
+	<td>[74][75][76]</td>
+</tr>
+<tr>
+	<th>season 4</th>
+	<td>April 2, 2013</td>
+	<td>July – November 2013</td>
+	<td>April 6, 2014</td>
+	<td>June 15, 2014</td>
+	<td>The remaining one-third of A Storm of Swords and some elements from A Feast for Crows and A Dance with Dragons</td>
+	<td>[77][78]</td>
+</tr>
+<tr>
+	<th>season 5</th>
+	<td rowspan="2">April 8, 2014</td>
+	<td>July – December 2014</td>
+	<td>April 12, 2015</td>
+	<td>June 14, 2015</td>
+	<td>A Feast for Crows, A Dance with Dragons and original content, with some late chapters from A Storm of Swords and elements from The Winds of Winter</td>
+	<td>79][80][81][82][83]</td>
+</tr>
+<tr>
+	<th>season 6</th>
+	<td>July – December 2015</td>
+	<td>April 24, 2016</td>
+	<td>June 26, 2016</td>
+	<td>Original content and outline from The Winds of Winter, with some late elements from A Feast for Crows and A Dance with Dragons</td>
+	<td>[79][84][85][86]</td>
+</tr>
+<tr>
+	<th>season 7</th>
+	<td>April 21, 2016</td>
+	<td>August 2016 – February 2017</td>
+	<td>July 16, 2017</td>
+	<td>August 27, 2017</td>
+	<td rowspan="2">Original content and outline from The Winds of Winter and A Dream of Spring</td>
+	<td>[67][68][69][85][87]</td>
+</tr>
+<tr>
+	<th>season 8</th>
+	<td>July 30, 2016</td>
+	<td>October 2017 – July 2018</td>
+	<td>April 2019<sup>[3]</sup></td>
+	<td>2019<sup>[3]</sup></td>
+	<td>[88][85][89]</td>
+</tr>
+</table>
+<p>The first two seasons adapted one novel each. For the later seasons, its creators see Game of Thrones as an adaptation of A Song of Ice and Fire as a whole rather than the individual novels;<sup>[90]</sup> this enables them to move events across novels, according to screen-adaptation requirements.<sup>[91]</sup></p>
+
+
+</body>
+</html>
+
+			
+

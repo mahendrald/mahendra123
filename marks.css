@@ -1,0 +1,17 @@
+span{
+	color: blue;
+	font-size: 25;
+	font-weight: bold;
+}
+.table td 
+{border: 1px solid;
+border-spacing:0px;
+}
+.heading{
+	color: black;
+	font-weight: bold;
+	font-size: 25;
+}
+.table th{
+	background-color:#a2a9b1;
+}
